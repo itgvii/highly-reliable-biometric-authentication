@@ -18,6 +18,7 @@ So this system never lets strange people and almost lets known people.
 # What in the files
 
 model.py contains class with the model and some function for tests
+
 fitting of the system is in the lsm.ipynb (yes, this notebook is only with researches yet)
 
 # Soon
